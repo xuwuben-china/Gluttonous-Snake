@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1f20c0",
+    "navigationBarTitleText": "贪吃蛇",
+    "navigationBarTextStyle":"#000"
+  }
+}
